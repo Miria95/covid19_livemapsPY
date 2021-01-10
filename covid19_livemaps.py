@@ -11,7 +11,8 @@ import numpy as np
 ############# DATA IMPORT #############################
 #######################################################
 
-
+# How to download data with import urlib
+# https://stackoverflow.com/questions/15537245/get-csv-data-from-a-website
 
 
 
